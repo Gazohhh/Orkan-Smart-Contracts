@@ -2,7 +2,6 @@
 
 **Deployed addresses**: 
 
-Only the following people have merge access for the master branch. 
 * ORKAN: [0xfB66e49e303A186a4c57414Ceeed651a7a78161a](https://ftmscan.com/address/0xfB66e49e303A186a4c57414Ceeed651a7a78161a/)
 * sORKAN: [0xC1dA744BedA9129D40d12445cF1C313fFd2Bee41](https://ftmscan.com/address/0xC1dA744BedA9129D40d12445cF1C313fFd2Bee41/)
 * wORKAN: [0x420a0960a7F7dbA6D9eD83192489844D260Dc2c1](https://ftmscan.com/address/0x420a0960a7F7dbA6D9eD83192489844D260Dc2c1/)
